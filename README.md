@@ -15,7 +15,7 @@ implements `func main()`):
 package main
 
 import (
-	_ "github.com/starboard-nz/go-rebuild/force"
+	_ "github.com/lp117937/go-rebuild/force"
 )
 
 ```
@@ -29,7 +29,7 @@ If you prefer to be given a warning only, you can import `warning` instead:
 package main
 
 import (
-	_ "github.com/starboard-nz/go-rebuild/warning"
+	_ "github.com/lp117937/go-rebuild/warning"
 )
 
 ```

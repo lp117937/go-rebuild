@@ -3,7 +3,7 @@
 
 package warning
 
-import "github.com/starboard-nz/go-rebuild"
+import "github.com/lp117937/go-rebuild"
 
 func init() {
 	rebuild.Run(false)
